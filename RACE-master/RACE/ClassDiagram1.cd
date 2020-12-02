@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RACE.Car">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAAAAAAACAAAAIAgAEARAAAAAAAAAAgAAAABAIAAA=</HashCode>
+      <FileName>Classic\CarModification\Car.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RACE.ClassicRacing" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>ClassicRacing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="RACE.Game">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAABAAAAAAAQgAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.243" />
+  </Class>
+  <Class Name="RACE.HeavinlyRacing" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>HeavinlyRacing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.288" />
+  </Class>
+  <Class Name="RACE.Program" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.User">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABEAAQAAAAAAQAAAQA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.CarDecorator">
+    <Position X="23.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\CarDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.JustCar">
+    <Position X="23.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\JustCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.SportCar">
+    <Position X="27.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\SportCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.TunedCar">
+    <Position X="20" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="RACE.Classic.CarDecorator" FixedToPoint="true">
+      <Path>
+        <Point X="24.25" Y="3.434" />
+        <Point X="24.25" Y="3.734" />
+        <Point X="20.75" Y="3.734" />
+        <Point X="20.75" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\TunedCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.UpgradedCar">
+    <Position X="25.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\UpgradeCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.Forward" BaseTypeListCollapsed="true">
+    <Position X="34.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\Forward.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RACE.Classic.Stop" BaseTypeListCollapsed="true">
+    <Position X="36" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\Stop.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RACE.Classic.ToTheLeft" BaseTypeListCollapsed="true">
+    <Position X="30.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\ToTheLeft.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RACE.Classic.ToTheRight" BaseTypeListCollapsed="true">
+    <Position X="32.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\ToTheRight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.Bots" Collapsed="true">
+    <Position X="42" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\Bots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.DifficultyLevel">
+    <Position X="41.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\DifficultyLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.Easy">
+    <Position X="39" Y="3" Width="1.5" />
+    <InheritanceLine Type="RACE.Classic.DifficultyLevel.DifficultyLevel" FixedToPoint="true">
+      <Path>
+        <Point X="42.25" Y="2.247" />
+        <Point X="42.25" Y="2.624" />
+        <Point X="39.75" Y="2.624" />
+        <Point X="39.75" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\Easy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MiddleBots" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.EasyBots">
+    <Position X="42" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\EasyBots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.Hard">
+    <Position X="41" Y="3" Width="1.5" />
+    <InheritanceLine Type="RACE.Classic.DifficultyLevel.DifficultyLevel" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="42.25" Y="2.247" />
+        <Point X="42.25" Y="2.624" />
+        <Point X="41.75" Y="2.624" />
+        <Point X="41.75" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\Hard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.HardBots">
+    <Position X="44" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\HardBots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.Middle">
+    <Position X="43.25" Y="3" Width="1.5" />
+    <AssociationLine Name="HardBots" Type="RACE.Classic.DifficultyLevel.HardBots" FixedToPoint="true">
+      <Path>
+        <Point X="44.75" Y="3.713" />
+        <Point X="45.188" Y="3.713" />
+        <Point X="45.188" Y="6" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\Middle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="HardBots" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RACE.Classic.DifficultyLevel.MiddleBots">
+    <Position X="40" Y="6" Width="1.5" />
+    <InheritanceLine Type="RACE.Classic.DifficultyLevel.Bots" FixedToPoint="true">
+      <Path>
+        <Point X="42.75" Y="5.562" />
+        <Point X="42.75" Y="5.76" />
+        <Point X="40.938" Y="5.76" />
+        <Point X="40.938" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\DifficultyLevel\MiddleBots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.MechanicsOfTheGame.Movable" BaseTypeListCollapsed="true">
+    <Position X="29.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAIgAAAAAACAAAAAAAAAAIAAAAAAAIAIgAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\Movable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RACE.Classic.MechanicsOfTheGame.Obstacle">
+    <Position X="32.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.TunedFlyCar">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\TunedFlyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.UpgradedFlyCar">
+    <Position X="23.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\UpgradeFlyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.FlyCar">
+    <Position X="25.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\FlyCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.Raket">
+    <Position X="29" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\CarModification\Raket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RACE.Classic.Nitro">
+    <Position X="37.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\Nitro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="RACE.IGame">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>IGame.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RACE.Classic.IRaceOnTheTrack">
+    <Position X="33.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\IRaceOnTheTrack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RACE.Classic.MechanicsOfTheGame.IObservable">
+    <Position X="31.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\IObservable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RACE.Classic.MechanicsOfTheGame.IObserver">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classic\MechanicsOfTheGame\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

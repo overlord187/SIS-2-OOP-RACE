@@ -1,0 +1,13 @@
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\bin\Debug\netcoreapp3.1\RACE.exe
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\bin\Debug\netcoreapp3.1\RACE.deps.json
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\bin\Debug\netcoreapp3.1\RACE.runtimeconfig.json
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\bin\Debug\netcoreapp3.1\RACE.runtimeconfig.dev.json
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\bin\Debug\netcoreapp3.1\RACE.dll
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\bin\Debug\netcoreapp3.1\RACE.pdb
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\obj\Debug\netcoreapp3.1\RACE.csprojAssemblyReference.cache
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\obj\Debug\netcoreapp3.1\RACE.AssemblyInfoInputs.cache
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\obj\Debug\netcoreapp3.1\RACE.AssemblyInfo.cs
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\obj\Debug\netcoreapp3.1\RACE.csproj.CoreCompileInputs.cache
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\obj\Debug\netcoreapp3.1\RACE.dll
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\obj\Debug\netcoreapp3.1\RACE.pdb
+C:\Users\diaze\Desktop\RACE-master\RACE-master\RACE\obj\Debug\netcoreapp3.1\RACE.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\bin\Debug\netcoreapp3.1\g.exe
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\bin\Debug\netcoreapp3.1\g.deps.json
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\bin\Debug\netcoreapp3.1\g.runtimeconfig.json
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\bin\Debug\netcoreapp3.1\g.runtimeconfig.dev.json
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\bin\Debug\netcoreapp3.1\g.dll
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\bin\Debug\netcoreapp3.1\g.pdb
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\obj\Debug\netcoreapp3.1\g.csprojAssemblyReference.cache
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\obj\Debug\netcoreapp3.1\g.AssemblyInfoInputs.cache
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\obj\Debug\netcoreapp3.1\g.AssemblyInfo.cs
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\obj\Debug\netcoreapp3.1\g.csproj.CoreCompileInputs.cache
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\obj\Debug\netcoreapp3.1\g.dll
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\obj\Debug\netcoreapp3.1\g.pdb
+C:\Users\diaze\Desktop\Первый семестр\Дискретная математика\RACE-master\RACE\obj\Debug\netcoreapp3.1\g.genruntimeconfig.cache
